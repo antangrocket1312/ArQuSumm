@@ -4,8 +4,8 @@
 
 </div>
 
-This repository maintains the code, data for the paper *ArQuSumm: Argument-aware Quantitative Summarization
-of Online Conversations*.
+This repository maintains the code, data for the paper [ArQuSumm: Argument-aware Quantitative Summarization
+of Online Conversations](https://arxiv.org/abs/2511.16985) (AAAI2026).
 
 We explored a new task, Argument-aware Quantitative Summarization to generate 
 reveal and summarize the claim-reason structure of arguments in conversations.
